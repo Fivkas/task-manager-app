@@ -89,3 +89,7 @@ Database: Neon Tech (Postgres)
 Backend: Render
 
 Frontend: Vercel
+
+<img width="1438" height="676" alt="Screenshot 2026-01-07 at 4 10 09 PM" src="https://github.com/user-attachments/assets/7510b58e-6e0e-498a-8825-fc55b51cee49" />
+<img width="1436" height="676" alt="Screenshot 2026-01-07 at 4 10 33 PM" src="https://github.com/user-attachments/assets/4d5446d4-bf49-4e90-9407-72a10315dbc2" />
+<img width="1433" height="675" alt="Screenshot 2026-01-07 at 4 10 52 PM" src="https://github.com/user-attachments/assets/afddc1cd-87c1-42d6-a84f-97e6a9ea445a" />

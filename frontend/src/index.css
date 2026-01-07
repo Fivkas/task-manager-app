@@ -1,0 +1,29 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  color: #213547;
+  background-color: #f4f6f8; /* Ανοιχτό Γκρι (το φόντο της σελίδας) */
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  margin: 0;
+  display: block;
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+button {
+  font-family: inherit;
+}
+
+/* Παγκόσμιο Reset για να μην έχουμε περιθώρια από τον browser */
+* {
+  box-sizing: border-box; 
+}

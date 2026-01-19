@@ -4,6 +4,8 @@ A full-stack task management application inspired by Trello. It features a Kanba
 
 ![Project Status](https://img.shields.io/badge/status-completed-green)
 
+visit : https://dev-blog-fivkas.vercel.app/
+
 ## 🚀 Features
 
 * **🔐 Authentication:** Secure Login & Register using JWT (JSON Web Tokens).
